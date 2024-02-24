@@ -1,4 +1,7 @@
 # pokemon-tracker
+
+<a href="https://github.com/nilpatel-cs/pokemon-tracker/releases">See Releases</a>
+
 A pokemon tracker built using PyQt6 and SQLite that allows for easy tracking of pokemon caught
 
 This is a program which is built using PokeAPI, you can think of it as a over engineered checklist that allows you to keep track and measure your progress in collecting all pokemon and variations of pokemon.
@@ -14,3 +17,4 @@ There is also a text summary which breaks down all the percentage completions fo
 A lot of QOL features are added, you will automatically prompted to pick a gender / form for pokemon that have differences of those type whenever you attempt to update one you also don't have to worry about keeping track of seperate categories with shared pokemon (example updating a male rattata will also update the regular rattata catch status approriately)
 
 I've found and removed several bugs before shipping this out but if there are any other bugs you find let me know  
+
